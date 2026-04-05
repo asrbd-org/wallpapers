@@ -1,7 +1,7 @@
 # 2026 Latest Wallpapers
 
-![1st](/ASRBD-1.png)
-![2nd](/ASRBD-2.png)
-![3rd](/ASRBD-3.png)
-![4th](/ASRBD-4.png)
-![5th](/ASRBD-5.png)
+![1st](/2026/ASRBD-1.png)
+![2nd](/2026/ASRBD-2.png)
+![3rd](/2026/ASRBD-3.png)
+![4th](/2026/ASRBD-4.png)
+![5th](/2026/ASRBD-5.png)
