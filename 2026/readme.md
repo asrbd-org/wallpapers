@@ -5,4 +5,4 @@
 ![3rd](/2026/ASRBD-3.png)
 ![4th](/2026/ASRBD-4.png)
 ![5th](/2026/ASRBD-5.png)
-![6th](/2026/ASRBD-6.png)
+![6th](/2026/ASRBD-6.jpg)
